@@ -6,3 +6,4 @@ segmentation_analysis_default_image = os.path.join(images_dir, "one_nucleus.tiff
 segmentation_mask_default_image = os.path.join(images_dir, "stack.tif")
 icons_dir = os.path.join(base_dir, "static_files", "icons")
 colors_file = os.path.join(base_dir, "static_files", "colors.npz")
+font_dir = os.path.join(base_dir, "fonts")

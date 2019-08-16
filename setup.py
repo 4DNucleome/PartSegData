@@ -8,7 +8,7 @@ with open(os.path.join(base_dir, "README.rst")) as ff:
 
 setuptools.setup(
     name="PartSegData",
-    version="0.9",
+    version="0.9.4",
     author="Grzegorz Bokota",
     author_email="g.bokota@cent.uw.edu.pl",
     description="PartSeg data files",
